@@ -4,7 +4,8 @@
   "description": "Working with async in javascript",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "promise": "node src/promise/index.js",
+    "promise:challenge": "node src/promise/challenge.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/jcamiloguz/Asyn_Js/issues"
   },
-  "homepage": "https://github.com/jcamiloguz/Asyn_Js#readme"
+  "homepage": "https://github.com/jcamiloguz/Asyn_Js#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
