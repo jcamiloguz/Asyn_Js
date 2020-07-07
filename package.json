@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jcamiloguz/Asyn_Js/issues"
   },
-  "homepage": "https://github.com/jcamiloguz/Asyn_Js#readme"
+  "homepage": "https://github.com/jcamiloguz/Asyn_Js#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
