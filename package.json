@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "async":"node src/async/index.js"
+    "async":"node src/async/index.js",
+    "async:challenge":"node src/async/challenge.js"
   },
   "repository": {
     "type": "git",
